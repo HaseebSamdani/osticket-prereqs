@@ -16,7 +16,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Simple list of the process</h2>
 
 - Creating a Virtual Machine in Azure
 - Install and enable IIS(Internet Information Services)
