@@ -19,4 +19,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Simple list of the process</h2>
 
 (https://docs.google.com/document/d/12E4BfT-_Sf9RncLrZrZ09mZ32q0mCb6U/edit?usp=sharing&ouid=113230259462418910579&rtpof=true&sd=true)
+
+
 ![image](https://github.com/user-attachments/assets/697946e6-eaf5-4366-833e-250217a80a68)
+![image](https://github.com/user-attachments/assets/130dd0b6-fcc5-42d6-92f5-efb29297670b)
+
