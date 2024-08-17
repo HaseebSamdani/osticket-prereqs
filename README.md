@@ -18,12 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Simple list of the process</h2>
 
-- Creating a Virtual Machine in Azure
-- Install and enable IIS(Internet Information Services)
-- 
-- Item 4
-- Item 5
-
+(https://docs.google.com/document/d/12E4BfT-_Sf9RncLrZrZ09mZ32q0mCb6U/pub)
 <h2>Installation Steps</h2>
 
 <p>
