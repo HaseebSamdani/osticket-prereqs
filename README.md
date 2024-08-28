@@ -16,7 +16,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>Simple list of the process</h2>
+<h2> Detailed list of the process</h2>
 
 (https://docs.google.com/document/d/12E4BfT-_Sf9RncLrZrZ09mZ32q0mCb6U/edit?usp=sharing&ouid=113230259462418910579&rtpof=true&sd=true)
 
